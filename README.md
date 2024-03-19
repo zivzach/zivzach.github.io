@@ -39,4 +39,4 @@ Created, maintained, and improved dynamic reports, graphs, and charts through da
 including Python and SQL.
 
 ## Publications
-
+Who Get's to be Autistic? Using Deep Learning to Assess Ethincity Bias within Autism Screeners presented at NYYAPOR 2020
