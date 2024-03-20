@@ -23,12 +23,11 @@ inefficiencies. Discovered 10% bind/bounce rate increase, optimized testing meth
 primary conversion rate.
 
 - Managed cross-functional projects from start to finish: built and documented Github workflows, oversaw incrementality testing,
-established ad data pipelines, and trained teams on Snowflake and Python algorithms. These initiatives increased marketing
-measurement accuracy by 15%.
+established ad data pipelines, and trained teams on Snowflake and Python algorithms. 
 
 - Mentored 10+ colleagues through bi-monthly data science workshops and Github code reviews. Led the development of a collaborative
 matchback algorithm using Dice Coefficients via Python in Snowflake and fostered cross-functional training on Python libraries
-(CausalPY, Prophet, Causal Inference) as well as Sagemaker workshops.
+(CausalPY, Prophet, Causal Inference)
 
 ### Data Scientist | Progressive Corporation - 2020-10-15 - 2022-11-15
 
