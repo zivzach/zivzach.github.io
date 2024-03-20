@@ -7,14 +7,16 @@ Project Management • Spark+Hadoop+Hive • SQL • Snowflake • Machine Learn
 Attribution • Mix Marketing Models • Causal Inference • Applied Bayesian Statistics
 
 ## Education 
-Masters in Data Science | 2019-06-01 - 2020-06-01 | Columbia University, New York
 
-Bachelors in Nueroscience | 2016-06-01 - 2018-09-01 | University of California San Diego
+### Masters in Data Science | 2019-06-01 - 2020-06-01 | Columbia University, New York
+
+### Bachelors in Nueroscience | 2016-06-01 - 2018-09-01 | University of California San Diego
 
 
 ## Work Experience
 ### Data Scientist II | Farmers Insurance - 2022-11-15 - Present
-- Spearheaded a million-dollar marketing initiative, leveraging Python and a broad data science toolkit to analyze performance and identify
+
+- Spearheaded analysis of million-dollar marketing initiative, leveraging Python and a broad data science toolkit to analyze performance and identify
 inefficiencies. Discovered 10% bind/bounce rate increase, optimized testing methodology, and saved upwards of $10,000 in flawed tests.
 
 - Extracted key trends from various platform analytics and implemented data-driven recommendations, achieving a 40% increase in
